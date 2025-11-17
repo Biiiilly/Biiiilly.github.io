@@ -1,13 +1,12 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-# About Me
 I am a first-year PhD student in Mathematics at **University College London (UCL)**, funded by the **NC3Rs** (National Centre for the Replacement, Refinement and Reduction of Animals in Research). My research lies at the intersection of **biomathematics**, **computational biology**, and **multiscale modelling**, with a particular focus on building **cell-based digital twins of 3D microvascular systems**.
 
 My PhD project aims to construct an individual-based digital twin of **pericyte–endothelial interactions** within microvascular organoid culture systems. By integrating mathematical modelling, agent-based simulations, and collaboration with experimental partners, I study how microvascular dysfunction contributes to haemorrhagic viral diseases such as **Dengue**. This work supports the NC3Rs mission by enabling computational exploration of biological mechanisms that may reduce the need for animal experimentation.
@@ -17,13 +16,13 @@ Before joining UCL, I studied at **Imperial College London**, where I developed 
 # Education
 **PhD in Mathematics**  
 *University College London (UCL), UK*  
-2024 – Present  
+2025 – Present  
 - NC3Rs-funded doctoral researcher  
 - Focus: cell-based modelling, microvascular digital twins, biomathematics  
 
-**MSci/BSc in Mathematics**  
+**MSci in Mathematics**  
 *Imperial College London, UK*  
-2019 – 2024  
+2021 – 2025  
 - Research experience in formalization of mathematics and computational modelling  
 - Strong background in analysis, geometry, probability, and mathematical biology  
 
