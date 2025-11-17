@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-GB"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Mr"
+title                    : "Jiale Miao"
 title_separator          : "-"
 name                     : &name "Jiale (Billy) Miao"
 description              : &description "Jiale Miao's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
