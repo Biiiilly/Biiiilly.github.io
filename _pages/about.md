@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year PhD student in Mathematics at **University College London (UCL)**, funded by the **NC3Rs** (National Centre for the Replacement, Refinement and Reduction of Animals in Research). My research lies at the intersection of **biomathematics**, **computational biology**, and **multiscale modelling**, with a particular focus on building **cell-based digital twins of 3D microvascular systems**.
+I am a first-year PhD student in Mathematics at **University College London (UCL)**, fully funded by the **NC3Rs** (National Centre for the Replacement, Refinement and Reduction of Animals in Research). My research lies at the intersection of **biomathematics**, **computational biology**, and **multiscale modelling**, with a particular focus on building **cell-based digital twins of 3D microvascular systems**.
 
 My PhD project aims to construct an individual-based digital twin of **pericyte–endothelial interactions** within microvascular organoid culture systems. By integrating mathematical modelling, agent-based simulations, and collaboration with experimental partners, I study how microvascular dysfunction contributes to haemorrhagic viral diseases such as **Dengue**. This work supports the NC3Rs mission by enabling computational exploration of biological mechanisms that may reduce the need for animal experimentation.
 
